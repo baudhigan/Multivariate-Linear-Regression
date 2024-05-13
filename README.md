@@ -42,8 +42,8 @@ print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/119393424/216236186-195aa989-8d97-4358-9892-4b31b6fb1f21.png)
 
+![Screenshot 2024-05-13 071058](https://github.com/baudhigan/Multivariate-Linear-Regression/assets/151921158/28cb99e7-27ba-4716-89b0-9cf4839bde92)
 
 
 ## Result
